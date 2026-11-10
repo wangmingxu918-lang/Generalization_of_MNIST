@@ -2,7 +2,6 @@ from sklearn.model_selection import train_test_split
 
 import tensorflow as tf
 
-tf.keras.utils.set_random_seed(42)
 
 (x_train, y_train), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
 

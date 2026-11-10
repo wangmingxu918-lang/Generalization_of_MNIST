@@ -1,0 +1,2 @@
+name,seed,train_accuracy,val_loss,val_accuracy,val_precision,val_recall,val_f1
+Baseline_Validation_Test,42,0.9972777962684631,0.05800709128379822,0.9875,0.9875655409228457,0.9875,0.9874952683228172

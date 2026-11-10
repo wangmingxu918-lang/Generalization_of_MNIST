@@ -1,0 +1,7 @@
+Metric,Mean,Standard Deviation
+train_accuracy,0.9972777962684631,0.0
+val_loss,0.05800709128379822,0.0
+val_accuracy,0.9875,0.0
+val_precision,0.9875655409228457,0.0
+val_recall,0.9875,0.0
+val_f1,0.9874952683228172,0.0
